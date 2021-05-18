@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我的blog:
+[https://dependon.github.io](https://dependon.github.io/) 
+
 我的项目:
 
 [fantascene-dynamic-wallpaper](https://github.com/dependon/fantascene-dynamic-wallpaper), (基于deepin/uos的动态壁纸程序，dtk，qt)
@@ -23,5 +26,8 @@ Here are some ideas to get you started:
 [x11opacitytool](https://github.com/dependon/x11opacitytool),(linux下全局窗口透明程序)
 
 [stockball](https://github.com/dependon/stockball),(股票球，上班摸鱼的时候用的，qt)
+
+我的邮箱:
+liuminghang0821@gmail.com
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dependon&show_icons=true&count_private=true)
