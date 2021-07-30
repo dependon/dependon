@@ -31,6 +31,9 @@ csdnblog: [https://blog.csdn.net/qq_43081702](https://blog.csdn.net/qq_43081702)
 
 [stockball](https://github.com/dependon/stockball),(股票球，上班摸鱼的时候用的，qt)
 
+如果你有好的开源项目的想法,可以联系我去用qt/c++去实现它,欢迎在github点赞,留言,提交bug,需求
+
+
 我的邮箱:
 liuminghang0821@gmail.com
 
