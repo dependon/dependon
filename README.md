@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-96年C++程序员
+96年C++程序员，正在学习cocos javascrip等知识
+
+
 
 我的blog:
 csdnblog: [https://blog.csdn.net/qq_43081702](https://blog.csdn.net/qq_43081702)
@@ -36,5 +38,9 @@ csdnblog: [https://blog.csdn.net/qq_43081702](https://blog.csdn.net/qq_43081702)
 
 我的邮箱:
 liuminghang0821@gmail.com
+liuminghang0821@qq.com
+擅长qt程序在debian，deepin，uos等系统下的本地打包，deb包和appimage(略懂),如果有需要打包qt项目，可以联系我，非商业项目免费，共建美好开源生态
+
+什么都可以交流心得，各种方式
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dependon&show_icons=true&count_private=true)
